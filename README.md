@@ -1,3 +1,9 @@
+### Fork with docs
+
+`yarn build:docs`
+
+<hr/>
+
 <div align="center">
 
 ![logo](https://raw.githubusercontent.com/JustFly1984/react-google-maps-api/master/logo.png)
@@ -38,7 +44,7 @@ Join our [Slack channel](https://join.slack.com/t/react-google-maps-api/shared_i
 Fork original repo at <https://github.com/JustFly1984/react-google-maps-api>. Clone your fork to local directory of your choice, install dependencies, set up your API Key, and start storybook server. Following commands should do the job:
 
 - `git clone https://github.com/YOUR_USER_NAME/react-google-maps-api.git` - clone your fork
-`
+  `
 - `cd react-google-maps-api` - move to newly created folder
 - `cp .storybook/example.maps.config.ts .storybook/maps.config.ts` - create file with API Key
 - `yarn install` - install dependencies
